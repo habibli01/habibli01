@@ -1,6 +1,6 @@
 ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=512&amp;imh=287&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
 <h1 align="center">Hi 👋, I'm Habib</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibli01&label=Profile%20views&color=0e75b6&style=flat" alt="habibli01" /> </p>
