@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif?cid=6c09b952sb29xqw5j1abam7t44i32uctzd0s3bj01h636dwl&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=512&amp;imh=287&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
 <h1 align="center">Hi 👋, I'm Habib</h1>
 <h3 align="center">A passionate Backend Developer from Azerbaijan</h3>
 
