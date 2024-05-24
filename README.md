@@ -1,4 +1,4 @@
-![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=512&amp;imh=287&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)
+![MasterHead](https://camo.githubusercontent.com/df21ed976b039213b8a9bc9a9d7a18f2323fc327ee1aecd31869c31a2b24b812/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)
 <h1 align="center">Hi 👋, I'm Habib</h1>
 <h3 align="center">A passionate Backend Developer from Azerbaijan</h3>
 
